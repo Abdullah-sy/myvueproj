@@ -22,6 +22,7 @@
       <div class="letter"><h1 class="letterh">B</h1></div>
       <div class="letter"><h1 class="letterh">O</h1></div>
       <div class="letter"><h1 class="letterh">O</h1></div>
+      <div class="letter"><h1 class="letterh">O</h1></div>
       <div class="letter"><h1 class="letterh">D</h1></div>
     </div>
   </div>
