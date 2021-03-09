@@ -18,12 +18,12 @@
         </div>
         </div>
         <div class="name">
-      <div class="letter"><h1 class="letterh">A</h1></div>
-      <div class="letter"><h1 class="letterh">B</h1></div>
-      <div class="letter"><h1 class="letterh">O</h1></div>
-      <div class="letter"><h1 class="letterh">O</h1></div>
-      <div class="letter"><h1 class="letterh">O</h1></div>
-      <div class="letter"><h1 class="letterh">D</h1></div>
+      <div class="letter"><img src="../../img/A.png" class="letterh"></div>
+      <div class="letter"><img src="../../img/B.png" class="letterh"></div>
+      <div class="letter"><img src="../../img/A.png" class="letterh"></div>
+      <div class="letter"><img src="../../img/B.png" class="letterh"></div>
+      <div class="letter"><img src="../../img/A.png" class="letterh"></div>
+      <div class="letter"><img src="../../img/B.png" class="letterh"></div>
     </div>
   </div>
 </template>
@@ -47,7 +47,7 @@ export default {
   vertical-align:middle ;
   font-size: 70px;
   width: 100vw;
-  height: 100vw;
+  height: 60vw;
 }
 .letter {
   margin: 20px;
